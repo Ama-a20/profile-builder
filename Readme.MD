@@ -124,3 +124,7 @@ After completing this project, I have a better understanding of :
 - How to format console output professionally.
 - How to run JavaScript outside the browser using Node.js.
 
+### Output screenshot
+When you run `node profileBuilder.js`, you should see something like this:
+![output](output.png)
+
