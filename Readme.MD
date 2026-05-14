@@ -108,7 +108,6 @@ node profileBuilder.js
 - Open profileBuilder.js in VS Code
 - Open the integrated terminal: Ctrl + `
 - Type and run:
-_bash_
 
 node profileBuilder.js
 
